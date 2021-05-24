@@ -1,0 +1,15 @@
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\bin\Debug\net5.0\FacturacionDigitalWare.DAL.deps.json
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\bin\Debug\net5.0\FacturacionDigitalWare.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\bin\Debug\net5.0\ref\FacturacionDigitalWare.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\bin\Debug\net5.0\FacturacionDigitalWare.DAL.pdb
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\FacturacionDigitalWare.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\FacturacionDigitalWare.DAL.AssemblyInfoInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\FacturacionDigitalWare.DAL.AssemblyInfo.cs
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\FacturacionDigitalWare.DAL.csproj.CoreCompileInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\FacturacionDigitalWare.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\ref\FacturacionDigitalWare.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\FacturacionDigitalWare.DAL.pdb
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\bin\Debug\net5.0\FacturacionDigitalWare.DAL.runtimeconfig.json
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\bin\Debug\net5.0\FacturacionDigitalWare.DAL.runtimeconfig.dev.json
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\FacturacionDigitalWare.DAL.csprojAssemblyReference.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.DAL\obj\Debug\net5.0\FacturacionDigitalWare.DAL.genruntimeconfig.cache

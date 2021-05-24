@@ -1,0 +1,15 @@
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\FacturacionDigitalWare.BI.csprojAssemblyReference.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\FacturacionDigitalWare.BI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\FacturacionDigitalWare.BI.AssemblyInfoInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\FacturacionDigitalWare.BI.AssemblyInfo.cs
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\FacturacionDigitalWare.BI.csproj.CoreCompileInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\bin\Debug\net5.0\FacturacionDigitalWare.BI.deps.json
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\bin\Debug\net5.0\FacturacionDigitalWare.BI.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\bin\Debug\net5.0\ref\FacturacionDigitalWare.BI.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\bin\Debug\net5.0\FacturacionDigitalWare.BI.pdb
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\bin\Debug\net5.0\FacturacionDigitalWare.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\bin\Debug\net5.0\FacturacionDigitalWare.DAL.pdb
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\FacturacionDigitalWare.BI.csproj.CopyComplete
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\FacturacionDigitalWare.BI.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\ref\FacturacionDigitalWare.BI.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\FacturacionDigitalWare\FacturacionDigitalWare.BI\obj\Debug\net5.0\FacturacionDigitalWare.BI.pdb
